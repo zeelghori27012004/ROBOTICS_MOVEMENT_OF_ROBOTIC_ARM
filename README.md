@@ -1,4 +1,11 @@
 # ROBOTICS_MOVEMENT_OF_ROBOTIC_ARM
+
+**you tube video link**
+<br>
+https://youtu.be/60gi1UxjBLE?feature=shared
+<br>
+https://youtu.be/C8yx_DJAew4?feature=shared
+
 To move the robotic arm to given position of end effector by implementing Inverse Kinematics and analyze robotic arm movements. 
 The code correctly calculates the servo motor angles using inverse kinematics and cosine rule and moves the robotic arm to the coordinates supplied. Different positions provided results in different alignments of servo motors. We moved the robotic arm to three different positions.
 <br>
